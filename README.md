@@ -1,2 +1,0 @@
-# yuanjiale.github.io
-## yljyjl
