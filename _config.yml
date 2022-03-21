@@ -1,10 +1,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: YJL Jekyll Theme
+title: YJL Page
 description: >- # this means to ignore newlines until "baseurl:"
   YJL is a minimal Jekyll Theme.
-baseurl: "/yuanjiale.github.io" # the subpath of the site
+baseurl: "/yjl" # the subpath of the site
 url: "https://yuanjialegithub.github.io/" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
