@@ -2,6 +2,7 @@
 layout: work
 title: Work
 slug: /work
+<p>本科阶段研习</p>
 items:
   - title: 基于轻量级卷积神经网络的高效图像分类算法研究
     image:
