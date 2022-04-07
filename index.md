@@ -12,8 +12,11 @@ profile_picture:
   现就读于河海大学2018级计算机科学与技术专业。
 </p>
 <p>
-    等上岸再来更新！
+    上岸啦！
 </p>
+<p>
+  马上就可以去东南大学继续学习，专业方向是智能软件开发和测试
+</p> 
 <p>
   You can find the source code and the instructions on <a href="https://github.com/yuanjialegithub/yuanjiale.github.io">GitHub</a>.
 </p>
